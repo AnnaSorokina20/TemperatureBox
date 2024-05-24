@@ -1,0 +1,14 @@
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\bin\Debug\net6.0-windows\WFormsControlLib.deps.json
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\bin\Debug\net6.0-windows\WFormsControlLib.dll
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\bin\Debug\net6.0-windows\WFormsControlLib.pdb
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.g.resources
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.TemperatureBox.resources
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.csproj.GenerateResource.cache
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.AssemblyInfoInputs.cache
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.AssemblyInfo.cs
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.csproj.CoreCompileInputs.cache
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.dll
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\refint\WFormsControlLib.dll
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\WFormsControlLib.pdb
+D:\ХАИ\2 курс\Семестр 2\.Net\Lab1\Lab1_Sorokina_623п\WFormsControlLib\obj\Debug\net6.0-windows\ref\WFormsControlLib.dll
