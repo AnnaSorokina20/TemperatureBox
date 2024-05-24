@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab1_Sorokina_623п/1.0.0": {
+        "dependencies": {
+          "WFormsControlLib": "1.0.0"
+        },
+        "runtime": {
+          "Lab1_Sorokina_623п.dll": {}
+        }
+      },
+      "WFormsControlLib/1.0.0": {
+        "runtime": {
+          "WFormsControlLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_Sorokina_623п/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WFormsControlLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
